@@ -73,6 +73,19 @@ uv run pytest
 ```
 The `dev` group will be picked up automatically by `uv run`.
 
+### 4. Confirm it works with uv build
+
+Test that building the package works correctly:
+```bash
+uv build
+```
+`uv_build` defaults to `src/` layout. For **flat layout** (package directory at project root), add:
+
+```toml
+[tool.uv.build-backend]
+module-root = ""
+```
+
 ## Files to Delete After Migration
 
 - `setup.py`
